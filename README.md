@@ -1,35 +1,26 @@
+# My Website
 
+This repository contains a website that I built entirely on my own, using my creativity along with assistance from image generation tools and creaticity. Every element of the design and code was developed by me to showcase my vision and skills.
 
-This repository contains a locally mirrored version of the Avrix preview site that was originally captured using HTTrack Website Copier. We have modified the mirrored code to clean up extraneous sections, simplify the structure, and ensure the website runs correctly in a local environment.
+## Overview
 
-## Project Structure
+I designed and developed this website from scratch, combining modern web development techniques with unique, generated imagery. The project reflects my personal style and creative approach.
 
-- **index.html**  
-  The landing page that displays a simple list of locally available sites. It links directly to the Avrix preview page.
+## Technologies Used
 
-- **50891774.html**  
-  The modified preview page for the Avrix template. Unneeded sections have been removed, and necessary modifications (such as adding a jQuery reference) have been made to ensure proper functionality.
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
-- **README.md**  
-  This file, which explains the process and structure of the project.
+## How It Was Made
 
-## How the Website Was Made
+I built this website by:
+- Designing the layout and structure based on my creative ideas.
+- Generating custom images and visual assets with image generation tools.
+- Hand-coding the HTML, CSS, and JavaScript to bring the design to life.
 
-1. **Mirroring the Original Site:**  
-   The website was originally mirrored using [HTTrack Website Copier](https://www.httrack.com/). This tool downloaded the complete site including all assets and code.
+This project is a testament to my commitment to creativity and technical skill.
 
-2. **Cleaning Up the Code:**  
-   - The **index.html** was simplified to only include the essential structure and a list of available sites.
-   - The **50891774.html** file was trimmed by removing extra sections and unnecessary code that was not needed for the preview.  
-   - Auto‑redirect meta tags and extraneous comments were removed to keep the code clean and maintain a more "human-coded" appearance.
+## License
 
-3. **Ensuring Functionality:**  
-   - A reference to the jQuery library was added in the preview file to support JavaScript functions.
-   - The modified code now loads correctly both locally and on a server, displaying only the essential content.
-
-## How to Run Locally
-
-1. **Clone the Repository:**  
-   Use Git to clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+[Specify your license here, e.g., MIT License]
