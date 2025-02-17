@@ -1,4 +1,4 @@
-# Avrix Joomla 5 Digital Agency Portfolio Template Mirror
+
 
 This repository contains a locally mirrored version of the Avrix preview site that was originally captured using HTTrack Website Copier. We have modified the mirrored code to clean up extraneous sections, simplify the structure, and ensure the website runs correctly in a local environment.
 
